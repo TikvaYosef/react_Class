@@ -1,0 +1,12 @@
+.sectionOfEmploys {
+    background-color: rgba(128, 128, 128, 0.815);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.imageOfEmploy{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+

@@ -1,0 +1,21 @@
+.food{
+    background-color:black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.nameOfFood{
+    color: blanchedalmond;
+}
+
+.imagesOfFooter{
+width: 200px;
+height: 200px;
+border-radius: 200px;
+}
+
+.discreption{
+    color: blanchedalmond;
+}
+
