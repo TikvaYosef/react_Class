@@ -25,20 +25,22 @@ class App extends React.Component {
         <Employ image="https://cdn.pixabay.com/photo/2019/10/06/18/21/woman-4530909__340.png " name="yafit" job="cejkgko" />
         <Employ image="https://media.istockphoto.com/photos/lead-yourself-to-a-life-of-success-picture-id1299077558?k=20&m=1299077558&s=612x612&w=0&h=PU8JRoL6gRWYh1YDPtYjP45y7BUzFS3_mzQ1H9gumwk= " name="Eden" job="cejkko" />
       </div>
-      <div className = "food">
-        <Footer image="https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062__340.jpg" name="Pizza" discreption="tjcnd ndls dnajl" />
-        <Footer image="https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246__340.jpg" name="burgers" discreption="dhls nkld njdkla" />
-        <Footer image="https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305__340.jpg" name="fish" discreption="jsl dsjl jjl" />
-        <Footer image="https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552__340.jpg" name="cake" discreption="fds ds ve" />
-        <Footer image="https://cdn.pixabay.com/photo/2016/01/22/02/13/meat-1155132__340.jpg" name="meat" discreption="dbka dbskj hl" />
-        <Footer image="https://cdn.pixabay.com/photo/2016/11/23/18/31/pasta-1854245__340.jpg" name="pasta" discreption="njsl hdkla hoi" />
+      </center>
+      <div className = "foodi">
+      <Footer image="https://media.istockphoto.com/vectors/pop-cake-line-icon-cake-on-a-stick-vector-illustration-isolated-on-vector-id1200078728?k=20&m=1200078728&s=612x612&w=0&h=dFxaZ5ZoIxvIBAg5Ofj3wk6WYtNrHsDKr-0MWzOLD4w=" name="Candys" discreption="njsl hdkgyugykg gyugul la hoi" />
+        <Footer image="https://media.istockphoto.com/vectors/pizza-slice-food-icon-logo-vector-id1197784083?k=20&m=1197784083&s=612x612&w=0&h=C-0nxvWp1LLfvewONYtXSTkIoCtQIBPKzfqvf48TQuU=" name="Pizza" discreption="tjcfi ykfyu bklnd ndls dnajl" />
+        <Footer image="https://media.istockphoto.com/vectors/cake-with-chocolate-glaze-and-marshmallows-solid-icon-birthday-vector-id1283972000?k=20&m=1283972000&s=612x612&w=0&h=WYv33XtUivf2K3J7ZxRCih7_C2s8V2rcUvT96fpdvi0=" name="cake" discreption="fdtydy ftyifk gyuguds ds ve" />
+        <Footer image="https://cdn.pixabay.com/photo/2017/01/27/14/25/burger-2013191__340.png" name="burgers" discreption="dhls nkld njdkla bgkhu kjhuiho bhkhuhuiiuh gugui" />
+        <Footer image="https://media.istockphoto.com/vectors/biscuit-line-icon-coconut-or-ground-almonds-cookie-macarons-symbol-vector-id1211789754?k=20&m=1211789754&s=612x612&w=0&h=ODDT083XPU7H6IPdZK_jOX57mCiEEOOuQ7HCz4BMRHM=" name="Biscuit" discreption="jsl gugligi  huiggug vvukldsjl jjl" />
+        <Footer image="https://media.istockphoto.com/vectors/ice-cream-in-waffle-cone-icon-simple-sign-logo-vector-id1262580217?k=20&m=1262580217&s=612x612&w=0&h=2mp1AV8glaW9kqMRMFfU4sh_pot-_MTP2jYxEcGyXRk=" name="ice-cream" discreption="dbka hkh jioholk hihohl dbskj hl" />
+       
       </div>
 
 
 
 
 
-    </center>
+    
 
 
 
