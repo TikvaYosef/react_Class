@@ -1,0 +1,20 @@
+.section {
+    background-color: rgba(128, 128, 128, 0.815);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.imageOfEmploy{
+    width: 200px;
+    height: 200px;
+   
+}
+.divOfFood2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.dis{
+    width: 100px;
+}

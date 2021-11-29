@@ -7,8 +7,8 @@ class Media extends React.Component {
 
         return <section className="food" >
             <div className ="card">
-                <img src={this.props.image} className="imagesOfFooter" />
-                <p className="nameOfFood">{this.props.name}  </p>
+                <img src={this.props.image} className="imagesOfFooter"/>
+                <p className="nameOfFood">{this.props.name} </p>
                 <p className="discreption">{this.props.discreption} </p>
             </div>
         </section>
