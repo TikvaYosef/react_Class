@@ -1,8 +1,29 @@
 .food{
-    background-color:black;
+    /* background-color:black; */
+    /* width: 200px; */
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    direction: ltr;
+
+}
+.card{
+    width: 300px;
+
+}
+
+.foodi{
+    /* margin-top: 50px; */
+    background-color: black;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
 }
 
 .nameOfFood{
@@ -10,12 +31,13 @@
 }
 
 .imagesOfFooter{
-width: 200px;
-height: 200px;
-border-radius: 200px;
+width: 50px;
+height: 50px;
+border-radius: 100px;
 }
 
 .discreption{
     color: blanchedalmond;
+    width: 200px;
 }
 
